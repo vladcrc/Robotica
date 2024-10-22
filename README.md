@@ -1,4 +1,4 @@
-![POZA_1_SET_UP_FIZIC](https://github.com/user-attachments/assets/ad1d4183-2a33-4310-a056-99cc60700dda)![WhatsApp Image 2024-10-22 at 10 34 51_37fd03ca](https://github.com/user-attachments/assets/97bef767-07dd-47ec-b0e0-0279e939d9bf)![WhatsApp Image 2024-10-22 at 10 34 51_5dfac260](https://github.com/user-attachments/assets/b80648d1-09b4-4362-996c-36978112bbde)1.1 Descriere
+1.1 Descriere
 În această temă am simulat o stație de încărcare pentru un vehicul electric, folosind mai multe LED-uri și butoane.
 
 1.2 Componente
