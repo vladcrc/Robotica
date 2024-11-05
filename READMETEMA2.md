@@ -46,4 +46,4 @@ Jocul se poate opri oricând cu butonul de start/stop.
 2.5 Schema ![WhatsApp Image 2024-11-04 at 09 45 52_68f546b9](https://github.com/user-attachments/assets/8553320e-549e-4c26-b3da-52bd6644b9d4)
 
 
-2.6 Link youtobe functionalitate https://youtube.com/shorts/b96_d3jiV5M?si=rkUc3CEL6HKSpVj6
+2.6 Link youtobe functionalitate https://www.youtube.com/shorts/a4BiUybRoBE
