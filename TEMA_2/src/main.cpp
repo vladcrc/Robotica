@@ -1,7 +1,7 @@
 #include <TimerOne.h>
 #include <avr/interrupt.h>
 
-
+#define duration 30000
 const int redPin = 10;// Pini led RGB
 const int greenPin = 11;
 const int bluePin = 12;
@@ -76,7 +76,13 @@ void StartStop() {
 }
 
 void countdown() {
-  setLED(255, 255, 255); 
+   for (int i = 0; i < 3; i++) {
+    setLED(255, 255, 255); 
+    delay(200); 
+    setLED(0, 0, 0); 
+    delay(200); 
+  }
+    setLED(255, 255, 255); 
   for (int i = 3; i > 0; i--) {
     Serial.println(i);
     delay(1000);
@@ -87,13 +93,13 @@ void countdown() {
 
   switch (difficulty) {// Setez in functie de dificultate nr de sec
     case EASY:
-      roundDuration = 30000; // 30 sec
+      roundDuration = duration; // 30 sec
       break;
     case MEDIUM:
-      roundDuration = 20000; // 20 sec
+      roundDuration = ((duration / 3 )* 2); // 20 sec
       break;
     case HARD:
-      roundDuration = 10000; // 10 sec
+      roundDuration = duration/3; // 10 sec
       break;
   }
 }
