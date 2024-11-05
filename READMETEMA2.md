@@ -40,5 +40,10 @@ Dupa 30 de secunde, runda se termină, iar în terminal se va afișa scorul: num
 Jocul se poate opri oricând cu butonul de start/stop.
 
 2.4 Poze ale set-up 
+![WhatsApp Image 2024-11-05 at 02 13 02_5adf2c5f](https://github.com/user-attachments/assets/338c86b6-f8b3-42d4-af61-31877fdbea24)
+![WhatsApp Image 2024-11-05 at 02 13 02_11be2b42](https://github.com/user-attachments/assets/d7b43fd7-6697-42dd-a3fc-1c6eb50f1e3d)
 
-2.5 Link youtobe functionalitate https://youtube.com/shorts/b96_d3jiV5M?si=rkUc3CEL6HKSpVj6
+2.5 Schema ![WhatsApp Image 2024-11-04 at 09 45 52_68f546b9](https://github.com/user-attachments/assets/8553320e-549e-4c26-b3da-52bd6644b9d4)
+
+
+2.6 Link youtobe functionalitate https://youtube.com/shorts/b96_d3jiV5M?si=rkUc3CEL6HKSpVj6
