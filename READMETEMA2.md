@@ -47,3 +47,5 @@ Jocul se poate opri oricând cu butonul de start/stop.
 
 
 2.6 Link youtobe functionalitate https://www.youtube.com/shorts/a4BiUybRoBE
+
+2.7 Code (https://github.com/vladcrc/Robotica/blob/main/TEMA_2/src/main.cpp)
