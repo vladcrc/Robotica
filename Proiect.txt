@@ -15,24 +15,17 @@ I proposed to combine entertainment with education, using a well-known concept -
 ### Why it's useful
 It is useful because it can help gambling addicts to play without financial implications.
 
----
-
 ## General Description
 The project consists of an integrated hardware and software system simulating a slot machine game. Below is an overview of the key modules and their interactions.
 
-### System Components
-1. **Hardware**:
-   - **LED RGB**: Displays animations to simulate the spinning of slot machine reels and results.
-   - **Buttons**: One for starting the game (start) and another for resetting or changing difficulty.
-   - **Arduino Uno**: The central controller managing game logic and hardware interactions.
-   - **Resistors and Jumper Wires**: Ensure proper circuit connections.
+## Hardware Design
 
-2. **Software**:
-   - **Arduino Firmware**: Implements game logic, randomization algorithms, and visual effects using C++ in the Arduino IDE.
-   - **Randomization Algorithm**: Generates winning or losing combinations.
-   - **Serial Interface**: Outputs debug messages or game results for additional feedback.
+## Software Design
 
-### How It Works
-- **User Interaction**: Pressing the start button triggers the slot animation.
-- **Processing**: The Arduino processes the randomization algorithm to determine results.
-- **Output**: Results are displayed using RGB LEDs and optionally in the serial monitor.
+## Results
+
+   
+
+
+   
+
